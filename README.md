@@ -76,8 +76,6 @@ python app.py
 
 Feel free to open issues or submit pull requests to improve the project.
 
----
- 
 
-Do you want me to do that?
+
 ```
